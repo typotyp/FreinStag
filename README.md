@@ -13,7 +13,7 @@ pip2 install bs4
 
 git clone https://github.com/typotyp/Instagram
 
-cd Instagram
+cd freIG0-1.py
 
 ls
 
